@@ -90,3 +90,4 @@ C:\Unklab\Visual Programing\koneksi-login\userConnection\koneksi-login\obj\x64\D
 C:\Unklab\Visual Programing\koneksi-login\userConnection\koneksi-login\obj\x64\Debug\koneksi-.7D5DB576.Up2Date
 C:\Unklab\Visual Programing\koneksi-login\userConnection\koneksi-login\obj\x64\Debug\koneksi-login.exe
 C:\Unklab\Visual Programing\koneksi-login\userConnection\koneksi-login\obj\x64\Debug\koneksi-login.pdb
+C:\Unklab\Visual Programing\koneksi-login\userConnection\koneksi-login\obj\x64\Debug\koneksi_login.Akun.resources
